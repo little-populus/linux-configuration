@@ -101,3 +101,10 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 ```
 
 till now
+
+## gnome extensions
+
+there two apps can be used to extend gnome
+
+- gnome-tweaks
+- gnome-extensions-app
