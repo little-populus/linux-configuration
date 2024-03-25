@@ -4,6 +4,12 @@
 
 ### window top-right button lost
 
+first you need
+
+```bash
+sudo apt install gnome-tweaks
+```
+
 input command like this
 
 ```bash
