@@ -108,3 +108,19 @@ there two apps can be used to extend gnome
 
 - gnome-tweaks
 - gnome-extensions-app
+
+### change filepathname from zh to en
+
+```bash
+export LANG=en_US
+
+xdg-user-dirs-gtk-update
+
+export LANG=zh_CH.UTF-8
+```
+
+### install monitor
+
+<https://extensions.gnome.org/extension/6682/astra-monitor/>
+
+enjoy it
