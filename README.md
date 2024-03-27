@@ -124,3 +124,9 @@ export LANG=zh_CH.UTF-8
 <https://extensions.gnome.org/extension/6682/astra-monitor/>
 
 enjoy it
+
+## sync windows time
+
+```bash
+timedatactl set-local-rtc 1
+```
