@@ -141,3 +141,17 @@ enjoy it
 ```bash
 timedatactl set-local-rtc 1
 ```
+
+```bash
+sudo apt install npm
+sudo npm install -g pm2
+pm2 start hbbs -- -r \[10.10.74.81\] -k _
+pm2 start hbbr
+pm2 save
+pm2 startup
+pm2 startup systemd
+pm2 save
+pm2 unstartup systemd
+pm2 save
+```
+
