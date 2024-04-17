@@ -1,0 +1,9 @@
+[submodule "oh-my-zsh"]
+	path = oh-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh.git
+[submodule "zsh-autosuggestions"]
+	path = zsh-autosuggestions
+	url = https://gitee.com/hailin_cool/zsh-autosuggestions.git
+[submodule "zsh-syntax-highlighting"]
+	path = zsh-syntax-highlighting
+	url = https://gitee.com/mirror-hub/zsh-syntax-highlighting.git
