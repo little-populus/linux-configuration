@@ -155,3 +155,6 @@ pm2 unstartup systemd
 pm2 save
 ```
 
+## gnome shell extension
+
+![lost](pictures/p3.png)
