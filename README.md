@@ -2,6 +2,24 @@
 
 ## gnome window common issue
 
+### language settings
+
+edit /etc/locale.conf
+
+```bash
+LANG=zh_CN.UTF-8
+```
+
+then using
+
+```bash
+xdg-user-dirs-update
+```
+
+to change directory names
+
+in  `~/.config/user-dirs.dirs`
+
 ### window top-right button lost
 
 first you need
