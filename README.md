@@ -13,7 +13,7 @@ LANG=zh_CN.UTF-8
 then using
 
 ```bash
-xdg-user-dirs-update
+xdg-user-dirs-gtk-update
 ```
 
 to change directory names
